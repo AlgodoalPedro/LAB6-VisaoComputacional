@@ -1,8 +1,5 @@
 # Relatório de Processamento de Imagens
 
-## Objetivo
-
-Este relatório apresenta o processamento de imagens com o uso de técnicas como binarização, operações morfológicas, detecção de bordas e extração de contornos. O objetivo é destacar objetos de interesse em imagens utilizando parâmetros ajustáveis de acordo com as características de cada caso.
 
 ---
 
