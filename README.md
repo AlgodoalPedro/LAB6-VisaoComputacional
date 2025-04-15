@@ -90,7 +90,3 @@ A limiarização foi personalizada por uma função que ajusta o limiar dinamica
 
 
 ---
-
-## Conclusão
-
-O processo de segmentação e contorno foi eficaz em diferentes tipos de imagem, mostrando flexibilidade com o uso de parâmetros ajustáveis. A adição de operações morfológicas e filtros por área contribuiu para a qualidade dos resultados, permitindo destacar com clareza os elementos principais de cada imagem.
