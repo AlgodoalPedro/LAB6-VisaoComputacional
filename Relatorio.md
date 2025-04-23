@@ -1,5 +1,9 @@
 # Relatório de Processamento de Imagens
 
+## Alunos
+Guilherme Couto Gomes RA 22122035-3
+Pedro H. Algodoal Pinto RA 22122072-6
+Samir Oliveira da Costa RA 22122030-4
 
 ---
 
